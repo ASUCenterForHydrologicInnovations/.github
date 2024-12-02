@@ -1,6 +1,9 @@
 ## The Center For Hydrologic Innovations
 The Center for Hydrologic Innovations is a hub of water science and engineering research at Arizona State University – Named the #1 University in the U.S. for Innovation for 9 consecutive years by the U.S. News and World Report. Our faculty, postdoctoral researchers and students work collaboratively to bring new technologies into the hands of those who need them most.
 
+Check out our work on the Triangulated Irregular Network - Real Time Integrated Basin Simulator [tRIBS](https://github.com/tribshms)
+
+ 
 <!--
 
 **Here are some ideas to get you started:**
